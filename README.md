@@ -1,4 +1,4 @@
-## Hello mate,
+# Hello mate
 It's such a pleasure to have you here! 👏
 
 My name is Bruno, I'm 29... Tech enthusiast and lifelong learner about how technology offer us different ways to solve business and life problems.

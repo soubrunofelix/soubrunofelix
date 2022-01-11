@@ -1,11 +1,10 @@
-.
-.
-.
-# Hello mate 👏
-It's such a pleasure to have you here!
+<br>
 
-My name is Bruno, I'm 29... Tech enthusiast and lifelong learner about how technology offer us different ways to solve business and life problems.
 
+### Hello mate 👏
+***It's such a pleasure to have you here!***
+
+I'm Bruno, tech enthusiast and lifelong learner about how technology offer us different ways to solve business and life issues.
 I changed my career to tech in 2021 doing the 06 months part-time Data Analytics Bootcamp at Ironhack and I'd love to share it with you.
 
 📍 São Paulo | Brazil 
@@ -18,20 +17,26 @@ I changed my career to tech in 2021 doing the 06 months part-time Data Analytics
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-f%C3%A9lix-s-8a78604b/)
 
-.
-.
-.
-.
-.
+<br>
 
-## Some of my projects I'm proud of:
-🛒 Supermarket Analysis - Case study of a supermarket located in São Paulo. Getting insights from its dataset as Sales trend, Consumers behaviour and Prices evolution 
+<br>
+
+<br>
+
+### Some of my projects in Data Analytics:
+
+🛒 Supermarket Analysis - **Case study** of a supermarket located in São Paulo. Getting insights from its dataset as Sales trend, Consumers behaviour and Prices evolution 
 over the Covid-19 pandemic scenario.
-Project III @ Ironhack Data Analytics Bootcamp (Dec'2021).
 
-⚽️ UEFA Champions League Top Scorers analysis - Data gathering with Web Scrapping in Python and visualization created in Tableau. Answering the reasons for the increase of goals scored after the tournament was expanded during the 90s. Also evaluating the career of top scorers, watching the total games played and how age had influenced their numbers over the years in the competition.
-BONUS: Who of the new players generation will be the new record holder?
-Project II @ Ironhack Data Analytics Bootcamp (Oct'2021).
+⚽️ UEFA Champions League Top Scorers analysis - **Data gathering with Web Scrapping in Python and visualization created in Tableau**. Answering the reasons for the increase of goals scored after the tournament was expanded during the 90s. Also evaluating the career of top scorers, watching the total games played and how age had influenced their numbers over the years in the competition.
+BONUS: **Linear Regression** Who of the new players generation will be the new record holder?
 
+Shark attack.
+
+<br>
+
+<br>
+
+<br>
 
 Never stop learning because life never stops teaching. So better is yet to come !!! 🚀

@@ -29,8 +29,7 @@ I changed my career to tech in 2021 doing the 06 months part-time Data Analytics
 over the Covid-19 pandemic scenario.
 
 - ⚽️ UEFA Champions League Top Scorers analysis - **Data gathering with Web Scrapping in Python and visualization created in Tableau**. Answering the reasons for the increase of goals scored after the tournament was expanded during the 90s. Also evaluating the career of top scorers, watching the total games played and how age had influenced their numbers over the years in the competition.
- 
-BONUS: Who of the new players generation will be the new record holder? (using **Linear Regression**)
+BONUS: Who's going to be next record holder? (using **Linear Regression**)
 
 - 🦈 Shark Attack - Beginner project in data analytics, gathering, wrangling and cleaning data.
 

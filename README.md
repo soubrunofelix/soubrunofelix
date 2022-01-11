@@ -32,7 +32,7 @@ over the Covid-19 pandemic scenario.
  
 BONUS: Who of the new players generation will be the new record holder? (using **Linear Regression**)
 
-Shark attack.
+- 🦈 Shark Attack - Beginner project in data analytics, gathering, wrangling and cleaning data.
 
 <br>
 

@@ -1,6 +1,6 @@
-
-
-
+.
+.
+.
 # Hello mate 👏
 It's such a pleasure to have you here!
 
@@ -17,6 +17,12 @@ I changed my career to tech in 2021 doing the 06 months part-time Data Analytics
 📫 How to reach me: 👇🏻
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-f%C3%A9lix-s-8a78604b/)
+
+.
+.
+.
+.
+.
 
 ## Some of my projects I'm proud of:
 🛒 Supermarket Analysis - Case study of a supermarket located in São Paulo. Getting insights from its dataset as Sales trend, Consumers behaviour and Prices evolution 
